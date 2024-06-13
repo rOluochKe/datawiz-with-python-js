@@ -9,3 +9,5 @@ yarn-error.log*
 
 .ipynb_checkpoints/
 .venv
+
+google_credentials.json
