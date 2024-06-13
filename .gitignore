@@ -11,3 +11,4 @@ yarn-error.log*
 .venv
 
 google_credentials.json
+data/google_credentials.json
